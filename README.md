@@ -2,7 +2,7 @@
 A little Kotlin program that fixes up modulo2.jpg from People Playground
 
 ## How to use
-1. Go to the **Releases** page and install the `.jar` file from the latest release.
+1. Go to the [Releases](https://github.com/valentinegb/modulo2/releases) page and install the `.jar` file from the latest release.
 2. Open your terminal of choice and navigate to the directory you installed the `.jar` file.
 3. Ensure you have Java installed with `java --version`.
    1. If not, go to https://java.com/download
